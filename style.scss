@@ -1,8 +1,21 @@
+$color-primary1: #ff0000;
+$color-background1: darkgrey;
 
-header {
+*{
     text-align: center;
+    background-color: $color-background1;    
 }
 
-.container{
-    text-align: center;
+header {
+    color: $color-primary1;    
+}
+
+.container {
+    .text {
+        padding: 10px 0;
+    }
+}
+
+footer {
+    margin: 10px 0 0 0;
 }
