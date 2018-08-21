@@ -1,0 +1,23 @@
+* [33m712e1b2[m[33m ([m[1;32mtask-4a[m[33m)[m Change task-4a v4
+[31m|[m *   [33me0fa0d4[m[33m ([m[1;36mHEAD -> [m[1;32mtask-4[m[33m)[m Change task-4 v1
+[31m|[m [32m|[m[31m\[m  
+[31m|[m [32m|[m[31m/[m  
+[31m|[m[31m/[m[32m|[m   
+* [32m|[m [33mdb68712[m Change task-4a v3
+[33m|[m *   [33md9d29e1[m Merge branch 'task-4a' into task-4
+[33m|[m [34m|[m[33m\[m  
+[33m|[m [34m|[m[33m/[m  
+[33m|[m[33m/[m[34m|[m   
+* [34m|[m [33m1a57608[m Change task-4a v2
+* [34m|[m [33m73a9259[m Change task-4a
+[35m|[m * [33mbdf1853[m[33m ([m[1;32mtask-4b[m[33m)[m Change task-4b v2
+[35m|[m * [33m3eb6cc8[m Change task-4b v1
+[35m|[m[35m/[m  
+* [33m9f6446e[m[33m ([m[1;33mtag: task-3-finished[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m Change style files
+* [33m207e5ad[m Add style files
+* [33md09f7c7[m Add tree verse in file index.html
+* [33mc9fe8e9[m Add 2 verse i index.html
+* [33m49c413b[m Update index.html
+* [33md06eff5[m Add one verse in file index.html
+* [33mbdc8fb7[m Add file index.html
+* [33m1e3631c[m Initial commit
