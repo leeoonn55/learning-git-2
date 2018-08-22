@@ -1,11 +1,10 @@
 * {
   text-align: center;
-  background-color: darkgrey;
+  background-color: yellow;
 }
 
 header {
   color: #ff0000;
-  display: flex;
 }
 
 .container .text {
