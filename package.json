@@ -4,7 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "watch": "npm run watch:browsersync",
+    "watch:browsersync": "browser-sync start --server --files css/*.css *.html",
+    "clean": "cd css/ && rm -rf *",
+
+    "init": "touch test.txt"
+    
+
+
+
+    
   },
   "repository": {
     "type": "git",
@@ -20,6 +29,8 @@
   "devDependencies": {
     "autoprefixer-cli": "^1.0.0",
     "browser-sync": "^2.24.6",
-    "nu-html-checker": "^0.1.0"
+    "node-sass": "^4.9.3",
+    "nu-html-checker": "^0.1.0",
+    "onchange": "^4.1.0"
   }
 }
